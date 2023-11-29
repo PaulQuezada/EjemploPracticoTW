@@ -1,0 +1,12 @@
+
+body{
+   /*  background: linear-gradient(to bottom, rgb(12, 2, 20), #1b0423); */
+}
+.contenidoPrincipal{
+
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 100vh;
+}
